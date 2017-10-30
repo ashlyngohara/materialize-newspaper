@@ -1,0 +1,94 @@
+h1 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size:450%;
+  color: white;
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+header {
+  color: #EEE9FF;
+}
+
+ul {
+  font-size: 150%;
+  text-align: right;
+  margin-right: 50px;
+}
+
+li {
+  display:inline;
+  text-decoration: none;
+  margin: 5px;
+}
+
+html {
+  background: url(https://images.urbanoutfitters.com/is/image/UrbanOutfitters/30968168_001_s);
+  background-size: 100%;
+}
+
+.col s4
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: white ;
+}
+
+/* mouse over link */
+a:hover {
+  color: grey;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
+
+.article1
+ {
+  color:#ABDEFF;
+  font-size: 185%
+}
+
+.container {
+  font-family:'PT Sans Narrow', sans-serif;
+}
+
+.text1 {
+  color:white;
+  font-size:100%;
+}
+
+.responsive-img {
+  position:justify;
+}
+
+img {
+  width:100%;
+}
+
+@media screen and (max-width: 700px) {
+  .text1 {
+    size:1=20%;
+  }
+  h1 {
+    font-size:350%
+  }
+  ul {
+    text-align:center
+  }
+  li {
+    display:block
+  }
+}
+
+
+
+
+
+
